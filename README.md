@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="right">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="center" src='https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif'/>
 
 - 🌱 I’m currently learning **Next.js 13,Node,Express**
