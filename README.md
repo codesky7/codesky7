@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I'm Akash, a passionate and experienced full-stack web developer. I specialize in building dynamic, user-friendly web applications with modern technologies like React.js, Next.js, PHP, Laravel, and React Native. My journey in web development started with a fascination for coding, and over the years, I’ve honed my skills to craft high-quality solutions for both web and mobile platforms.<br><br>I enjoy taking on new challenges and learning new technologies. Whether it’s developing interactive front-end interfaces, building robust back-end systems, or integrating APIs, I thrive on creating seamless, efficient experiences for users.<br><br>I’ve worked on various projects, ranging from small websites to complex SaaS platforms, and I’m always excited to collaborate on innovative ideas. When I'm not coding, I enjoy exploring new trends in tech and finding ways to optimize my development process.<br><br>Feel free to check out my repositories and reach out if you want to collaborate!
 
+###
+
 <img align="right" height="150" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9524wme7k64vn46p2oz1v14p8457hsk2q3slua0zrm1&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
