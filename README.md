@@ -72,16 +72,14 @@ Feel free to check out my repositories and reach out if you want to collaborate!
 ---
 
 # 🔥 Streak Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=codesky7name&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=codesky7&theme=radical)
 
 ---
 
 # 📊 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesky7name&layout=compact&theme=radical)](https://github.com/codesky7name)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesky7&layout=compact&theme=radical)](https://github.com/codesky7)
 
 ---
 
 # 📂 My Projects:
-- [Project Name 1](https://github.com/codesky7name/project-1)
-- [Project Name 2](https://github.com/codesky7name/project-2)
-- [Project Name 3](https://github.com/codesky7name/project-3)
+
