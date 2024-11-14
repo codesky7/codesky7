@@ -1,4 +1,4 @@
-![Banner Image](https://example.com/your-banner-image-url.jpg)
+![Banner Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
 # 💫 About Me:
 Hi, I'm Akash, a passionate and experienced full-stack web developer. I specialize in building dynamic, user-friendly web applications with modern technologies like React.js, Next.js, PHP, Laravel, and React Native. My journey in web development started with a fascination for coding, and over the years, I’ve honed my skills to craft high-quality solutions for both web and mobile platforms.
