@@ -66,14 +66,6 @@ Feel free to check out my repositories and reach out if you want to collaborate!
 
 ---
 
-# 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codesky7&show_icons=true&hide_border=true&theme=radical)
-
----
-
-# 🔥 Streak Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=codesky7&theme=radical)
-
 ---
 
 # 📊 Top Languages:
